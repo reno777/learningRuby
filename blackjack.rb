@@ -1,4 +1,4 @@
-
+#Modified by Reno, initial code from Osagiede/BlackJack
 
 
 #=================================== v METHODS v =====================================#
